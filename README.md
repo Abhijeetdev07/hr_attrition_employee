@@ -55,14 +55,6 @@ An end-to-end HR Analytics project that analyzes workforce data to identify key 
 
 ---
 
-## 💡 Strategic Recommendations
-
-- **Cap & Monitor Overtime**: Rebalance workloads, hire contract support, and review overtime thresholds starting with high-pressure teams.
-- **First-Year Retention Program**: Establish structured onboarding, mentorship programs, and 30/60/90-day check-ins.
-- **Entry-Level Compensation & Career Pathways**: Review entry-level wages and map clear progression paths for Level 1 staff.
-- **Proactive Intervention for High-Risk Groups**: Conduct stay interviews with the identified high-risk demographic (entry-level, single, high overtime).
-
----
 
 ## 🛠️ Project Architecture & Tech Stack
 
